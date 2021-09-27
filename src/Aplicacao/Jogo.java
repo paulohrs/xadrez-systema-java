@@ -1,10 +1,12 @@
 package Aplicacao;
 
+import tabuleirojogo.Tabuleiro;
+
 public class Jogo {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("Mudança No projeto");
+		Tabuleiro tabuleiro = new Tabuleiro(8, 8);
 		
 	}
 
