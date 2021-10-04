@@ -15,4 +15,9 @@ public class XadrezPeca extends Peca{
 	public Cor getCor() {
 		return cor;
 	}
+
+	public Object getColor() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
